@@ -27,9 +27,9 @@ Optionally, to build the documentation yourself from the ``docs/`` folder::
 Source code
 ===========
 
-https://github.com/DevDungeon/Cathy
+https://github.com/Luis96920/Cathy-discord-chatbot
 
 Contact
 =======
 
-nanodano@devdungeon.com
+lucasm3938@gmail.com
